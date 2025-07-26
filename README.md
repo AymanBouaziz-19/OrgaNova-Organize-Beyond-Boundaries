@@ -168,8 +168,7 @@ If you believe productivity tools should be more human — join us.
 
 ## 📣 License
 
-MIT — Feel free to use, modify, and build upon it.  
-Please credit the original contributors.
+MIT — Personal Project hard work - University Project
 
 ---
 
