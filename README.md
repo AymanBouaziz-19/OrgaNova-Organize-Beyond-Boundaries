@@ -5,8 +5,8 @@ Built to **go far beyond Notion**, OrgaNova combines cutting-edge technology, st
 
 ---
 
-## Created by: Ayman Bouaziz
-**Young AI engineer from rif, Morocco - 1st- year student at FSTH AL Hoceima (Génie Informatique) - Bulding real-world AI solution before graduation.**
+## 🧠 Created by: Ayman Bouaziz
+-**Young AI engineer from Rif, Morocco 1st-year student at FSTH Al Hoceima (Génie Informatique) – Building real-world AI solutions before graduation.**
 
 ---
 
