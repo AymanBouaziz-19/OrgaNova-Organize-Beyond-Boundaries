@@ -1,4 +1,4 @@
-# 🚀 OrgaNova — Organize Beyond Boundaries
+# 🚀 OrgaNova Organize Beyond Boundaries
 
 **A next-generation AI-powered productivity platform** designed to redefine how students, employees, teachers, and creators manage their time, tasks, thoughts, and teams.  
 Built to **go far beyond Notion**, OrgaNova combines cutting-edge technology, stunning UI/UX, and deeply personalized AI features.
@@ -179,6 +179,43 @@ MIT — Personal Project hard work - University Project
 
 ## 🌟 Let's Disrupt Productivity
 
-> “We’re not building another Notion —  
+> “We’re not building another Notion, 
 We’re building something that **thinks with you**.”
+
+-**The main user interface for the first time:**
+
+<img width="1315" height="553" alt="image" src="https://github.com/user-attachments/assets/b70429bf-fd24-4594-9cbb-98e2ca4c47ff" />
+<img width="1289" height="555" alt="image" src="https://github.com/user-attachments/assets/0ef3f7be-7c39-4a73-9ec9-5d28ef4f5372" />
+
+-**The Project OrgaNova (inside ):**
+
+<img width="1336" height="575" alt="image" src="https://github.com/user-attachments/assets/85e209be-1846-428d-8719-41c5c3f3225e" />
+<img width="1324" height="565" alt="image" src="https://github.com/user-attachments/assets/3cd28fd2-427a-4d68-99fc-2c66b9f0e155" />
+<img width="1336" height="571" alt="image" src="https://github.com/user-attachments/assets/e88ceec4-c45d-4e61-aa35-14bc0c1860c8" />
+<img width="1303" height="490" alt="image" src="https://github.com/user-attachments/assets/ae5a1c80-be33-4a37-827b-b5b05a90fd8c" />
+<img width="1323" height="573" alt="image" src="https://github.com/user-attachments/assets/fcf3f17c-197e-4df7-834a-a225c469184c" />
+<img width="1326" height="573" alt="image" src="https://github.com/user-attachments/assets/e61ddc2d-e8df-4054-8ce0-02db3282f047" />
+<img width="1320" height="573" alt="image" src="https://github.com/user-attachments/assets/1f1e0aff-dbba-4ced-bedd-7ac8e7fad360" />
+<img width="1329" height="575" alt="image" src="https://github.com/user-attachments/assets/dd7fd797-ce22-4486-8a07-2ea9eaf98fdd" />
+<img width="1323" height="567" alt="image" src="https://github.com/user-attachments/assets/e10d9fee-1608-4e3f-bef6-af689d7473e8" />
+
+-**My favorite section page ( Analytics! )**:
+
+<img width="1317" height="567" alt="image" src="https://github.com/user-attachments/assets/32392ead-3eeb-4cad-afc0-a3d89f11579e" />
+<img width="1324" height="561" alt="image" src="https://github.com/user-attachments/assets/3511f4c8-ac35-4a45-9e60-711f7b967675" />
+<img width="1320" height="561" alt="image" src="https://github.com/user-attachments/assets/813ac4a8-5ed2-4fa8-b90c-be7ccbcdd830" />
+
+-**Settings & Preferences section page:**
+
+<img width="1320" height="573" alt="image" src="https://github.com/user-attachments/assets/4b5f9459-3eb3-46ec-816d-23126fcaf9e3" />
+
+
+
+
+
+
+
+
+
+
 
